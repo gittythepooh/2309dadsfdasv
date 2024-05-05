@@ -3615,11 +3615,11 @@ DOMAIN-SUFFIX,nexton-net.jp
 DOMAIN-SUFFIX,nexttv.com.tw
 DOMAIN-SUFFIX,nf.id.au
 DOMAIN-SUFFIX,nfjtyd.com
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
+#DOMAIN-SUFFIX,nflxext.com
+#DOMAIN-SUFFIX,nflximg.com
+#DOMAIN-SUFFIX,nflximg.net
+#DOMAIN-SUFFIX,nflxso.net
+#DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,ng.mil
 DOMAIN-SUFFIX,nga.mil
 DOMAIN-SUFFIX,ngensis.com

@@ -2,3 +2,6 @@ DOMAIN-KEYWORD,signal
 DOMAIN-KEYWORD,linkedin
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,*.linkedin.com
+DOMAIN-KEYWORD,*.linkedin

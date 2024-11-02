@@ -59,13 +59,13 @@ ruleset=🚀 SSRDOG,[]MATCH
 
 ; Proxy Group Definitions with Country-Based Groups Integrated
 custom_proxy_group=🚀 SSRDOG`select`[]🎯 Direct Connection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
-custom_proxy_group=📢 Google Services`select`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
+custom_proxy_group=📢 Google Services`select`[]🚀 SSRDOG`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
 custom_proxy_group=🎥 Netflix`select`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
-custom_proxy_group=📹 YouTube`select`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
-custom_proxy_group=💬 OpenAI`select`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
+custom_proxy_group=📹 YouTube`select`[]🚀 SSRDOG`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
+custom_proxy_group=💬 OpenAI`select`[]🚀 SSRDOG`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
 custom_proxy_group=📺 Bahamut`select`[]🇨🇳 Taiwan Nodes`[]🇭🇰 Hong Kong Nodes`[]🇯🇵 Japan Nodes`[]DIRECT
-custom_proxy_group=🎮 Game Platform`select`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
-custom_proxy_group=🌏 Domestic Media`select`[]DIRECT`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes
+custom_proxy_group=🎮 Game Platform`select`[]🚀 SSRDOG`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
+custom_proxy_group=🌏 Domestic Media`select`[]DIRECT`[]🚀 SSRDOG`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes
 
 ; Country-Based Proxy Groups for Automatic Testing and Selection
 custom_proxy_group=🇭🇰 Hong Kong Nodes`url-test`(HK|Hong Kong|香港)`http://www.gstatic.com/generate_204`300,,50

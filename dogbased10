@@ -11,17 +11,7 @@ ruleset=🎮 DMM Game Platform,https://api-gz.hosbbq.com/nus74f89st1/DM.yml
 ruleset=🌏 Domestic Media,https://api-gz.hosbbq.com/nus74f89st1/C.yml
 ruleset=💬 OpenAI,https://api-gz.hosbbq.com/nus74f89st1/CH.yml
 
-; Custom Domain and IP Rules
-ruleset=🚀 SSRDOG,[]DOMAIN,dog.ssrdog.com
-ruleset=🚀 SSRDOG,[]DOMAIN-KEYWORD,linkedin
-ruleset=🎥 Netflix,[]RULE-SET,Netflix
-ruleset=🎮 Steam,[]RULE-SET,SteamCN
-ruleset=📢 Google Services,[]RULE-SET,Google
-ruleset=📹 YouTube,[]RULE-SET,YouTube
-ruleset=💬 OpenAI,[]RULE-SET,OpenAI
-ruleset=📺 Bahamut,[]RULE-SET,Bahamut
-ruleset=🎮 DMM Game Platform,[]RULE-SET,DMM
-ruleset=🌏 Domestic Media,[]RULE-SET,ChinaMax
+
 
 ; Additional IP and Domain Rules for Direct Connections
 ruleset=DIRECT,[]DOMAIN,local.adguard.org

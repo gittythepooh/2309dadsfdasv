@@ -58,7 +58,7 @@ ruleset=🎯 Direct Connection,[]GEOIP,LAN
 ruleset=🚀 SSRDOG,[]MATCH
 
 ; Proxy Group Definitions with Country-Based Groups Integrated
-custom_proxy_group=🚀 SSRDOG Selection`select`[]🎯 Direct Connection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]🚀 SSRDOG`[]DIRECT
+custom_proxy_group=🚀 SSRDOG`select`[]🎯 Direct Connection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]🚀 SSRDOG`[]DIRECT
 custom_proxy_group=📢 Google Services`select`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
 custom_proxy_group=🎥 Netflix`select`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
 custom_proxy_group=📹 YouTube`select`[]🚀 SSRDOG Selection`[]🇭🇰 Hong Kong Nodes`[]🇨🇳 Taiwan Nodes`[]🇯🇵 Japan Nodes`[]🇺🇲 US Nodes`[]🇸🇬 Singapore Nodes`[]🇰🇷 Korea Nodes`[]DIRECT
